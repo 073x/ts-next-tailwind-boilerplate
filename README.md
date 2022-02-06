@@ -1,1 +1,0 @@
-# ts-next-tailwind-boilerplate
