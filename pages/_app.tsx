@@ -1,4 +1,4 @@
-import '../styles/globals.css';
+import '../styles/globals.scss';
 import type { AppProps as NextAppProps } from "next/app";
 
 type AppProps<P = any> = {
